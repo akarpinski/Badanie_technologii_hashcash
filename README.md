@@ -1,4 +1,8 @@
 Moja własna praca badawcza ze studiów IT na Politechnice Gdańskiej
+
+Poza teorią opis konkretnych badań, analiza ich wyników, zastosowanie.
+Cały przebieg, wykresy, pomiary na sprzęcie, przedstawione są w załączonej dokumentacji, prezentacji.
+
 ## Techniki hashcash
 
 Studium możliwości zastosowania technik hashcash dla ograniczenia transmisji nielegalnych komunikatów w sieciach bezprzewodowych.
