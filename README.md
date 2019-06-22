@@ -1,7 +1,7 @@
-Moja własna praca badawcza ze studiów IT na Politechnice Gdańskiej
+Moja własna praca badawcza ze studiów IT na Politechnice Gdańskiej.
 
 Poza teorią opis konkretnych badań, analiza ich wyników, zastosowanie.
-Cały przebieg, wykresy, pomiary na sprzęcie, przedstawione są w załączonej dokumentacji, prezentacji.
+Cały przebieg, wykresy, pomiary na sprzęcie, przedstawione są w załączonej dokumentacji, prezentacji (pdf, ppt).
 
 ## Techniki hashcash
 
